@@ -1,0 +1,41 @@
+.contain{
+    position: absolute;
+    left: 13%;
+    top: 35%;
+    color: #fff;
+}
+.head1{
+    width: 30%;
+    font-size: 40px;
+    font-weight: bold;
+    margin: 0;
+}
+.head2{
+    width: 30%;
+    font-size: 20px;
+    margin: 0;
+}
+.head5{
+    width: 30%;
+    font-size: 14px;
+    margin: 0;
+}
+.paragra{
+    margin-top: 26px;
+    width: 43%;
+}
+.order{
+    background-color: rgb(223, 131, 33);
+    color: #fff;
+    padding: 15px;
+    cursor: pointer;
+    border: none;
+    margin-top: 20px;
+}
+.order:hover{
+    background-color: #fff;
+    color: rgb(223, 131, 33);
+    padding: 15px;
+    cursor: pointer;
+    border: none;
+}

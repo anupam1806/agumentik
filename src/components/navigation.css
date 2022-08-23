@@ -1,0 +1,119 @@
+.main-nav-outer{
+	padding:0px;
+	position:relative;
+	background: none;
+}
+.main-nav{
+	text-align:center;
+	margin:10px 0 0px;
+	padding:0;
+	list-style:none;
+}
+.main-nav li{
+	display:inline;
+	margin:0 1px;
+}
+.main-nav li a{
+	display:inline-block;
+	color:#fff;
+	text-transform:uppercase;
+	font-family: 'Montserrat', sans-serif;
+	text-decoration: none;
+	line-height:20px;
+	margin:0px 33px;
+	transition:all 0.3s ease-in-out;
+	-moz-transition:all 0.3s ease-in-out;
+	-webkit-transition:all 0.3s ease-in-out;
+}
+
+.para{
+    position: relative;
+    top: -35px;
+}
+
+.main-nav li a:hover{ 
+	text-decoration:none;
+	color: #71787a;
+}
+
+.nav-logo{
+	width: 90px;
+}
+.nav-brand{
+	width: 45px;
+}
+.small-logo{ 
+	width: 0px;
+	padding:0 32px;
+}
+
+.main-section{
+	padding:90px 0 110px;
+}
+.button{
+    position: relative;
+    top: -37px;
+    background-color: rgb(108, 102, 102);
+    color: #fff;
+    padding: 10px;
+    cursor: pointer;
+    border: none;
+}
+.button:hover{
+    position: relative;
+    top: -37px;
+    background-color: #fff;
+    color: rgb(108, 102, 102);
+    padding: 10px;
+    cursor: pointer;
+    border: none;
+}
+.vl {
+    border-left: 3px solid #fff;
+    height: 190px;
+    position: absolute;
+    right: 15%;
+    margin-left: -3px;
+    /* top: 30%; */
+  }
+.btn-facebook {
+	color: #fff;
+    position: absolute;
+    right: 14.8%;
+    margin-left: -3px;
+    top: 44vh;
+}
+.btn-facebook:hover {
+	color: #fff;
+    cursor: pointer;
+}
+.btn-instagram {
+	color: #fff;
+    position: absolute;
+    right: 14.6%;
+    margin-left: -3px;
+    top: 51vh;
+}
+.btn-instagram:hover {
+	color: #fff;
+    cursor: pointer;
+}
+.btn-telegram {
+	color: #fff;
+    position: absolute;
+    right: 14.6%;
+    margin-left: -3px;
+    top: 59vh;
+}
+.btn-telegram:hover {
+	color: #fff;
+    cursor: pointer;
+}
+.v2 {
+    border-left: 3px solid #fff;
+    height: 190px;
+    position: absolute;
+    right: 15%;
+    margin-left: -3px;
+    top: 65vh;
+  }
